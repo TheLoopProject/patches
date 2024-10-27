@@ -33,6 +33,6 @@ You can select the appropriate branch as the main branch and discard the others.
 
 ## License
 
-This template on the OrnitheMC GitHub is licensed under the [Creative Common Zero v1.0 license](./LICENSE-TEMPLATE.md).
+This template on the OrnitheMC GitHub is licensed under the [Creative Common Zero v1.0 license](./LICENSE).
 
 Mods created with this template are not automatically licensed under the CC0, and are not required to give any kind of credit back to OrnitheMC for this template.

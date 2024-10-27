@@ -1,14 +1,17 @@
 {
 	"required": true,
 	"minVersion": "0.8",
-	"package": "com.example.example_mod.mixin",
+	"package": "org.loopmc.patches.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
 	],
 	"client": [
+    "MinecraftMixin",
+    "RemotePlayerEntityMixin",
+    "InputPlayerEntityMixin",
+    "PlayerEntityMixin"
 	],
 	"server": [
-		"MinecraftServerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
